@@ -1,2 +1,2 @@
-menambah file1.txt
+menambah file1gits.txt
 test1
