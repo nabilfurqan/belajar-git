@@ -7,3 +7,4 @@ tambah cherry pick
 testing rebase
 Coba rebase feature/rebase
 
+feature merge squash
