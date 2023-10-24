@@ -25,7 +25,10 @@ git merge nama-branch
 git merge --abort
 
 -- cherry pick / tambah cherry pick
+git cherry-pick commit-id
 
+-- git tag
+git tag tagName commit-id
 
 
 
