@@ -37,5 +37,12 @@ git tag -l / -l = --list
 -- hapus tag
 git tag -d tagName
 
+-- menyimpan git stash
+git stash push -m "komentar" 
 
+-- melihat semua stash
+git stash list
+
+-- melihat perubahan stash
+git stash show stash-id
 
