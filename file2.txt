@@ -8,3 +8,5 @@ testing rebase
 Coba rebase feature/rebase
 
 feature merge squash
+
+feature merge squash1
