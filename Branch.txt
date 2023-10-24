@@ -21,7 +21,8 @@ git branch -d nama-branch / -d = -delete
 -- merge branch
 git merge nama-branch
 
--- merge conflict
+-- merge conflict / membatalkan merge
+git merge --abort
 
 
 
