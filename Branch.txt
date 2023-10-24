@@ -46,3 +46,12 @@ git stash list
 -- melihat perubahan stash
 git stash show stash-id
 
+-- untuk mengambil perubahan stash
+git stash apply stash-id
+
+-- menghapus stash
+git stash drop stash-id
+
+-- untuk menghapus semua stash
+git stash clear
+
