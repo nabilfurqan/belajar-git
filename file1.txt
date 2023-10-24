@@ -1,2 +1,4 @@
 menambah file1gits.txt
 test1
+
+add ferature a
