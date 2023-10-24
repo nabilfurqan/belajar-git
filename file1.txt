@@ -3,3 +3,4 @@ test1
 tambah feature alias
 add ferature a
 
+tambah cherry pick
