@@ -8,3 +8,6 @@ tambah cherry pick
 testing stash
 
 testing rebase
+
+Coba rebase feature/rebase
+
