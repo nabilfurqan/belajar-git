@@ -1,3 +1,5 @@
 menambah file1gits.txt
 test1
 tambah feature alias
+add ferature a
+

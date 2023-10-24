@@ -18,7 +18,10 @@ git branch -m branch-baru
 -- menghapus branch
 git branch -d nama-branch / -d = -delete
 
--- Multiple branch
+-- merge branch
+git merge nama-branch
+
+-- merge conflict
 
 
 
