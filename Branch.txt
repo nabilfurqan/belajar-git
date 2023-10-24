@@ -24,6 +24,7 @@ git merge nama-branch
 -- merge conflict / membatalkan merge
 git merge --abort
 
+-- cherry pick / tambah cherry pick
 
 
 
