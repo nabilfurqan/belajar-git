@@ -34,5 +34,8 @@ cth : git tag versi-1 07652
 -- melihat list tag
 git tag -l / -l = --list
 
+-- hapus tag
+git tag -d tagName
+
 
 
