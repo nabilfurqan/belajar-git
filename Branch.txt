@@ -1,0 +1,25 @@
+-- untuk melihat branch saat ini
+git branch --show-current
+
+-- ingin membuat branch baru
+git branch nama-branch-baru
+cth : git branch dev
+
+-- ingin melihat semua branch
+git branch --list atau git branch
+
+-- ingin mengganti posisi branch
+git switch nama-branch
+cth : git switch dev
+
+-- ingin rename nama branch
+git branch -m branch-baru
+
+-- menghapus branch
+git branch -d nama-branch / -d = -delete
+
+-- Multiple branch
+
+
+
+
