@@ -27,9 +27,12 @@ git merge --abort
 -- cherry pick / tambah cherry pick
 git cherry-pick commit-id
 
--- git tag
+-- membuat git tag
 git tag tagName commit-id
+cth : git tag versi-1 07652
 
+-- melihat list tag
+git tag -l / -l = --list
 
 
 
