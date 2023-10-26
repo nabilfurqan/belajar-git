@@ -1,0 +1,5 @@
+--mengirim prubahan branch ke remote repository
+git push namaremote localbranch
+
+--mengirim prubahan branch ke remote repository yang berbeda
+git push namaremote localbranch:remotebranch
